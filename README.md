@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=debian,npm,replit,git,html,postman,js,py,linux,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,&perline=9" />
 </p>
 
-![snake gif](https://github.com/henrygoncalvess/henrygoncalvess/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/henrygoncalvess/henrygoncalvess/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/Projetos">
