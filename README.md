@@ -13,6 +13,9 @@
   />
 </picture>
 
+<br>
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Back-End&center=true&vCenter=true&size=75&width=1050&color=1cffe8&font=VT323&duration=3000)](https://github.com/henrygoncalvess)
 
 <p align="center">
