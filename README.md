@@ -1,15 +1,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/henrygoncalvess/henrygoncalvess/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/henrygoncalvess/henrygoncalvess/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/henrygoncalvess/henrygoncalvess/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/henrygoncalvess/henrygoncalvess/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/henrygoncalvess/henrygoncalvess/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/henrygoncalvess/henrygoncalvess/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
   />
 </picture>
 
