@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/henrygoncalvess">
-    <img src="https://github-readme-stats-five-phi-27.vercel.app/api?username=henrygoncalvess&include_all_commits=true&custom_title=Github%20Status%20-%20Henry%20Gonçalves&hide=contribs,prs&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=000257&ring_color=00ff91&border_color=1cffbb&bg_color=35,00d9ff,00e7a2,503bd4&line_height=30&card_width=500"/>
+    <img src="https://github-readme-stats-five-phi-27.vercel.app/api?username=henrygoncalvess&include_all_commits=true&custom_title=Github%20Status%20-%20Henry%20Gonçalves&hide=contribs,prs&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=000257&ring_color=00ff91&border_color=1cffbb&bg_color=35,00d9ff,00e7a2,503bd4&line_height=30&card_width=500&number_format=long"/>
   </a>
 </p>
 
