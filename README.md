@@ -5,11 +5,12 @@
   <img height=170 src="https://github-readme-stats-five-phi-27.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1"/>
 </p>
 
-<h2 align=center>Tecnologias e Conhecimentos</h2>
+<h3 align=center>Tecnologias e Conhecimentos</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=debian,npm,replit,git,html,postman,js,py,linux,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,&perline=9" />
 </p>
+
 <p align="center">
   <a href="https://github.com/henrygoncalvess/Projetos">
     <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Projetos&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=1cffbb&description_lines_count=2"/>
