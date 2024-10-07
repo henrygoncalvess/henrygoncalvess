@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Back-End&center=true&vCenter=true&size=75&width=1050&color=1cffe8&font=VT323&duration=3000)](https://github.com/henrygoncalvess)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=henrygoncalvess&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=35%2C00E7A2%2C503BD4&border=1CFFBB&ring=00FF91&fire=00FF91&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FF91&dates=0000007C&card_width=815" />
+  <img src="https://streak-stats.demolab.com?user=henrygoncalvess&locale=pt_BR&background=35%2C00E7A2%2C503BD4&border=1CFFBB&ring=00FF91&fire=00FF91&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FF91&dates=0000007C&card_width=815" />
 </p>
 
 <p align="center">
