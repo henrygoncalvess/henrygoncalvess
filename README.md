@@ -38,6 +38,6 @@
     <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Projetos&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=2"/>
   </a>
   <a href="https://github.com/henrygoncalvess/henrygoncalvess">
-    <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=henrygoncalvess&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=1cffbb&description_lines_count=2"/>
+    <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=henrygoncalvess&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=2"/>
   </a>
 </p>
