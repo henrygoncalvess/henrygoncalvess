@@ -34,6 +34,18 @@
 </p>
 
 <p align="center">
+  <a href="https://replit.com/@octanebt">
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange" />
+  </a>
+  <a href="https://mailto:h3nrygoncalves@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5511944556632">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/henrygoncalvess/Projetos">
     <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Projetos&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=2"/>
   </a>
