@@ -8,9 +8,6 @@
   <a href="https://wa.me/5511944556632">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://discord.com/channels/@henrykiko">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://replit.com/@octanebt">
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange" />
   </a>
