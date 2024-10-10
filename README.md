@@ -48,7 +48,7 @@
 <h3 align=center>Tecnologias e Conhecimentos</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,npm,replit,ubuntu,git,html,postman,js,py,pycharm,linux,nodejs,regex,githubactions,vscode,powershell,typescript,css,bash,express,mysql,md&perline=11" />
+  <img src="https://skillicons.dev/icons?i=debian,npm,replit,ubuntu,git,html,postman,js,py,pycharm,linux,mongodb,nodejs,regex,githubactions,vscode,powershell,typescript,css,bash,express,mysql,md&perline=11" />
 </p>
 
 <p align="center">
