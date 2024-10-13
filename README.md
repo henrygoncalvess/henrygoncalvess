@@ -45,11 +45,13 @@
   <img height=170 src="https://github-readme-stats-five-phi-27.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=ffffff&text_color=fffffa&border_color=1cffbb&bg_color=35,00e7a2,503bd4&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1"/>
 </p>
 
-<h3 align=center>Tecnologias e Conhecimentos</h3>
+<h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=debian,npm,replit,ubuntu,git,html,postman,js,py,pycharm,linux,mongodb,nodejs,regex,githubactions,vscode,powershell,typescript,css,bash,express,mysql,md&perline=11" />
 </p>
+
+<h2 align=center>Conhecimentos em prática</h2>
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/Projetos">
