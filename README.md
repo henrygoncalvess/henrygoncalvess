@@ -60,4 +60,7 @@
   <a href="https://github.com/henrygoncalvess/CRUD_MySQL">
     <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=CRUD_MySQL&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
   </a>
+  <a href="https://github.com/henrygoncalvess/Powershell">
+    <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Powershell&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
+  </a>
 </p>
