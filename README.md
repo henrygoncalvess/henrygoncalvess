@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e7a2,100:503bd4" />
+
 <p align="center">
   <a href="https://mailto:h3nrygoncalves@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -51,7 +53,20 @@
   <img src="https://skillicons.dev/icons?i=debian,npm,replit,git,html,postman,js,py,linux,mongodb,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,md&perline=10" />
 </p>
 
-<h2 align=center>Conhecimentos em prática</h2>
+<p align="center">
+  <span><img src="https://img.shields.io/badge/POO-000000?style=flat-square"></span>
+  <span><img src="https://img.shields.io/badge/ACID-000000?style=flat-square"></span>
+  <span><img src="https://img.shields.io/badge/Authentication and Authorization-000000?style=flat-square"></span>
+  <span><img src="https://img.shields.io/badge/Data Structures & Algorithms-000000?style=flat-square"></span>
+  <span><img src="https://img.shields.io/badge/UML-000000?style=flat-square"></span>
+</p>
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=155&text=Conhecimentos%20em%20prática&fontColor=ffffff&fontSize=27&stroke=000000&color=0:00e7a2,100:476bed" />
+
+<br>
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/API_RESTful">
@@ -67,3 +82,5 @@
     <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e7a2,100:503bd4&section=footer" />
