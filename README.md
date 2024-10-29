@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e7a2,100:503bd4" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e7a2,100:503bd4&height=75" />
 <p align="center">
   <a href="https://mailto:h3nrygoncalves@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -59,6 +58,7 @@
   <span><img src="https://img.shields.io/badge/Authentication and Authorization-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/Data Structures & Algorithms-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/UML-000000?style=flat-square"></span>
+  <span><img src="https://img.shields.io/badge/Mermaid.js-000000?style=flat-square"></span>
 </p>
 
 <br>
@@ -82,5 +82,4 @@
     <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e7a2,100:503bd4&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e7a2,100:503bd4&section=footer&height=75" />
