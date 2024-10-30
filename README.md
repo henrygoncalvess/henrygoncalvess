@@ -69,16 +69,16 @@
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/API_RESTful">
-    <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=API_RESTful&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=API_RESTful&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
   </a>
   <a href="https://github.com/henrygoncalvess/CRUD_MySQL">
-    <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=CRUD_MySQL&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=CRUD_MySQL&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
   </a>
   <a href="https://github.com/henrygoncalvess/Powershell">
-    <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Powershell&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Powershell&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
   </a>
   <a href="https://github.com/henrygoncalvess/Authentications">
-    <img src="https://github-readme-stats-five-phi-27.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cffe8&text_color=ffffff&border_color=1cffbb&bg_color=004a57&icon_color=ffffff&description_lines_count=3"/>
   </a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e7a2,100:503bd4&section=footer&height=75" />
