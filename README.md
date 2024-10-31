@@ -49,7 +49,8 @@
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=debian,npm,replit,git,html,postman,js,py,linux,mongodb,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,md&perline=10" />
+  <img src="https://skillicons.dev/icons?i=npm,replit,git,html,postman,js,py,linux,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,md&perline=9" />
+<!--   mongodb, debian -->
 </p>
 
 <p align="center">
@@ -58,9 +59,11 @@
   <span><img src="https://img.shields.io/badge/ACID-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/Programação Síncrona e Assíncrona-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/Autenticação & Autorização-000000?style=flat-square"></span>
+  <br>
   <span><img src="https://img.shields.io/badge/Estrutura de dados & Algoritmos-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/UML-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/Mermaid.js-000000?style=flat-square"></span>
+  <span><img src="https://img.shields.io/badge/caching-000000?style=flat-square"></span>
 </p>
 
 <br>
