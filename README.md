@@ -2,6 +2,14 @@
 
 ![BANNER GITHUB](https://github.com/user-attachments/assets/2e96dc33-3758-447f-b6b6-55dc4532094d)
 
+### Sobre mim 😁🖖
+Apaixonado pelo universo da tecnologia e da programação, com uma característica que se destaca por dedicação e  
+foco. Sempre busco realizar minhas tarefas com excelência, sempre pesquisando e praticando constantemente para criar  
+um conhecimento robusto.
+
+Sou curioso, valorizo o aprendizado contínuo e não hesito em fazer perguntas ou buscar respostas. Além disso, sou uma  
+pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro, aprender.
+
 <p align="center">
   <a href="https://mailto:h3nrygoncalves@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,14 +30,6 @@
     <img src="https://img.shields.io/badge/Roadmap-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" />
   </a>
 </p>
-
-### Sobre mim 😁🖖
-Apaixonado pelo universo da tecnologia e da programação, com uma característica que se destaca por dedicação e  
-foco. Sempre busco realizar minhas tarefas com excelência, sempre pesquisando e praticando constantemente para criar  
-um conhecimento robusto.
-
-Sou curioso, valorizo o aprendizado contínuo e não hesito em fazer perguntas ou buscar respostas. Além disso, sou uma  
-pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro, aprender.
 
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
