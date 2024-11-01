@@ -66,7 +66,7 @@
   <span><img src="https://img.shields.io/badge/caching-000000?style=flat-square"></span>
 </p>
 
-<br>
+---
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=155&text=Conhecimentos%20em%20prática&fontColor=ffffff&fontSize=27&stroke=000000&color=0:00e7a2,100:476bed" />
 
