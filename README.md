@@ -49,7 +49,7 @@
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,replit,git,html,postman,js,py,linux,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,md&perline=9" />
+  <img src="https://skillicons.dev/icons?i=npm,redis,replit,git,html,postman,js,py,linux,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,md&perline=9" />
 <!--   mongodb, debian -->
 </p>
 
