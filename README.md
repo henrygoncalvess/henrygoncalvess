@@ -9,6 +9,9 @@
   <a href="https://wa.me/5511944556632">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/henry-gonçalves-69168b337">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://replit.com/@octanebt">
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange" />
   </a>
