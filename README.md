@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&include_all_commits=true&custom_title=Github%20Status%20-%20Henry%20Gonçalves&hide=contribs,issues&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=000257&ring_color=00ff91&border_color=1cffbb&bg_color=35,00d9ff,00e7a2,503bd4&line_height=30&number_format=long&rank_icon=github"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&include_all_commits=true&custom_title=Github%20Status%20-%20Henry%20Gonçalves&hide=issues,commits&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=000257&ring_color=00ff91&border_color=1cffbb&bg_color=35,00d9ff,00e7a2,503bd4&line_height=30&number_format=long&rank_icon=github"/>
   <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=ffffff&text_color=fffffa&border_color=1cffbb&bg_color=35,00e7a2,503bd4&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1"/>
 </p>
 
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <span><img src="https://img.shields.io/badge/POO-000000?style=flat-square"></span>
+  <span><img src="https://img.shields.io/badge/Paradigma orientado a objeto (POO)-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/SOLID-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/ACID-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/Programação Síncrona e Assíncrona-000000?style=flat-square"></span>
