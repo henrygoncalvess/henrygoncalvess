@@ -58,7 +58,6 @@
 
 <p align="center">
   <span><img src="https://img.shields.io/badge/Paradigma orientado a objeto (POO)-000000?style=flat-square"></span>
-  <span><img src="https://img.shields.io/badge/SOLID-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/ACID-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/Programação Síncrona e Assíncrona-000000?style=flat-square"></span>
   <span><img src="https://img.shields.io/badge/Autenticação & Autorização-000000?style=flat-square"></span>
