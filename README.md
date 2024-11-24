@@ -80,17 +80,14 @@
   <a href="https://github.com/henrygoncalvess/Authentications">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
-  <a href="https://github.com/henrygoncalvess/API_RESTful">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=API_RESTful&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
-  </a>
   <a href="https://github.com/henrygoncalvess/Powershell">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Powershell&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
   <a href="https://github.com/henrygoncalvess/Caching">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Caching&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
-  <a href="https://github.com/henrygoncalvess/github_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=github_api&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
+  <a href="https://github.com/henrygoncalvess/API_RESTful">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=API_RESTful&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&section=footer&height=75" />
