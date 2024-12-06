@@ -46,7 +46,7 @@
 
 <p align="center">
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&include_all_commits=true&custom_title=Github%20Status%20-%20Henry%20Gonçalves&hide=issues,commits&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=002582&ring_color=00FFD5&border_color=0BFFEF&bg_color=35,0befff,6047FF&line_height=30&number_format=long&rank_icon=github"/>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=ffffff&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1"/>
 </p>
 
 <h2 align=center>Tecnologias e Conhecimentos</h2>
@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/CRUD_MySQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=CRUD_MySQL&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=CRUD_MySQL&title_color=1cddff&text_color=fffffe&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
   <a href="https://github.com/henrygoncalvess/Authentications">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
