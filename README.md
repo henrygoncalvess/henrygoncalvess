@@ -54,17 +54,17 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
   <a href="https://github.com/henrygoncalvess/CRUD_MySQL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=CRUD_MySQL&title_color=1cddff&text_color=fffffe&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
+  <a href="https://github.com/henrygoncalvess/API_REST_fastify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=API_REST_fastify&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
+  </a>
   <a href="https://github.com/henrygoncalvess/Authentications">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
-  </a>
-  <a href="https://github.com/henrygoncalvess/Powershell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Powershell&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
   <a href="https://github.com/henrygoncalvess/Caching">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Caching&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
-  <a href="https://github.com/henrygoncalvess/API_REST_express">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=API_REST_express&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
+  <a href="https://github.com/henrygoncalvess/Powershell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Powershell&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
 </p>
 
