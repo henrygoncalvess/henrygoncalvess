@@ -89,7 +89,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Back-End&center=true&vCenter=true&size=75&width=1050&color=0befff&font=VT323&duration=3000)](https://github.com/henrygoncalvess)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=henrygoncalvess&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=815&border=0BFFEF&ring=00FFD5&fire=00FFD5&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FFD5&dates=0000007C&background=45%2C0BEFFF%2C6047FF"/>
+  <img src="https://streak-stats.demolab.com?user=henrygoncalvess&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=815&border=0BFFEF&ring=00FFD5&fire=00FFD5&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FFD5&dates=0000007C&background=45%2C0BFFEF%2C6047FF"/>
 </p>
 
 <p align="center">
