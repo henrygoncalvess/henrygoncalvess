@@ -46,8 +46,6 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
   <span><img src="https://img.shields.io/badge/MVC-000000?style=flat-square"></span>
 </p>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Meus%20projetos&fontColor=ffffff&fontSize=30&stroke=000000&color=0:0befff,100:6047FF" />
 
 <p align="center">
@@ -55,8 +53,6 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=AI-photos-community&title_color=1cddff&text_color=fffffe&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
 </p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Conhecimentos%20em%20prática&fontColor=ffffff&fontSize=30&stroke=000000&color=0:0befff,100:6047FF" />
 
