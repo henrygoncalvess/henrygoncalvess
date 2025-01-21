@@ -46,7 +46,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
   <span><img src="https://img.shields.io/badge/MVC-000000?style=flat-square"></span>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Meus%20projetos&fontColor=ffffff&fontSize=30&stroke=000000&color=0:0befff,100:6047FF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&text=Meus%20projetos&fontColor=ffffff&fontSize=25&stroke=000000&color=0:0befff,100:6047FF&animation=twinkling" />
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/AI-photos-community">
@@ -54,7 +54,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Conhecimentos%20em%20prática&fontColor=ffffff&fontSize=30&stroke=000000&color=0:0befff,100:6047FF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&text=Conhecimentos%20em%20prática&fontColor=ffffff&fontSize=25&stroke=000000&color=0:0befff,100:6047FF&animation=twinkling" />
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/CRUD_MySQL">
