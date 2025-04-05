@@ -17,9 +17,9 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <!--   <a href="https://www.instagram.com/henry_dbk">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> -->
-  <a href="https://wa.me/5511944556632">
+<!--   <a href="https://wa.me/5511944556632">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/henry-gonçalves-69168b337">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
