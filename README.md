@@ -20,11 +20,8 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
   <a href="https://wa.me/5511944556632">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/henrygoncalvess">
+  <a href="https://www.linkedin.com/in/henrygoncalvess/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://replit.com/@octanebt">
-    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange" />
   </a>
   <a href="https://roadmap.sh/u/henrydbk">
     <img src="https://img.shields.io/badge/Roadmap-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" />
@@ -34,7 +31,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,redis,replit,git,html,postman,js,mongodb,nodejs,regex,vscode,powershell,typescript,css,bash,express,mysql,md&perline=9" />
+  <img src="https://skillicons.dev/icons?i=npm,redis,jest,git,html,postman,js,nodejs,mongodb,arduino,typescript,docker,css,vscode,powershell,postgres,next,vercel,bash,express,mysql,md&perline=11" />
 <!--  linux, debian -->
 </p>
 
