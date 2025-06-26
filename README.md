@@ -1,8 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&height=75" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Back-End&center=true&vCenter=true&height=53&size=70&width=1050&color=28a0d1&font=Jersey+25&duration=3000)](https://github.com/henrygoncalvess)
 
-![BANNER GITHUB](https://github.com/user-attachments/assets/2e96dc33-3758-447f-b6b6-55dc4532094d)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&height=75"/>
+<img src='https://capsule-render.vercel.app/api?type=transparent&height=25&fontColor=ffffff&fontSize=30&desc="Compromisso%20é%20a%20base%20de%20toda%20conquista"&descSize=25&descAlignY=80&animation=twinkling' />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&section=footer&height=75"/>
 
-### Sobre mim 😁🖖
+### Sobre mim 😁
+
 Apaixonado pelo universo da tecnologia e da programação, com uma característica que se destaca por dedicação e  
 foco. Sempre busco realizar minhas tarefas com excelência, sempre pesquisando e praticando constantemente para criar  
 um conhecimento robusto.
@@ -31,43 +34,15 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,redis,jest,git,html,postman,js,nodejs,mongodb,arduino,typescript,docker,css,vscode,powershell,postgres,next,vercel,bash,express,mysql,md&perline=11" />
+  <img src="https://skillicons.dev/icons?i=npm,jest,git,html,postman,js,nodejs,mongodb,arduino,typescript,docker,css,vscode,powershell,postgres,next,vercel,bash,express,mysql,md&perline=11" />
 <!--  linux, debian -->
 </p>
 
-<p align="center">
-  <span><img src="https://img.shields.io/badge/Paradigma orientado a objeto (POO)-000000?style=flat-square"></span>
-  <span><img src="https://img.shields.io/badge/Programação Síncrona e Assíncrona-000000?style=flat-square"></span>
-  <span><img src="https://img.shields.io/badge/UML-000000?style=flat-square"></span>
-  <span><img src="https://img.shields.io/badge/caching-000000?style=flat-square"></span>
-  <span><img src="https://img.shields.io/badge/MVC-000000?style=flat-square"></span>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&text=Meus%20projetos&fontColor=ffffff&fontSize=25&stroke=000000&color=0:0befff,100:6047FF&animation=twinkling" />
+<h3 align=center>Meus projetos</h3>
 
 <p align="center">
   <a href="https://github.com/henrygoncalvess/AI-photos-community">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=AI-photos-community&title_color=1cddff&text_color=fffffe&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&text=Conhecimentos%20em%20prática&fontColor=ffffff&fontSize=25&stroke=000000&color=0:0befff,100:6047FF&animation=twinkling" />
-
-<p align="center">
-  <a href="https://github.com/henrygoncalvess/CRUD_MySQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=CRUD_MySQL&title_color=1cddff&text_color=fffffe&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
-  </a>
-  <a href="https://github.com/henrygoncalvess/API_REST_fastify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=API_REST_fastify&title_color=1cddff&text_color=fffffe&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
-  </a>
-  <a href="https://github.com/henrygoncalvess/Authentications">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Authentications&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
-  </a>
-  <a href="https://github.com/henrygoncalvess/Caching">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Caching&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
-  </a>
-  <a href="https://github.com/henrygoncalvess/Powershell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=Powershell&title_color=1cddff&text_color=ffffff&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
   </a>
 </p>
 
@@ -89,15 +64,11 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Back-End&center=true&vCenter=true&size=75&width=1050&color=0befff&font=VT323&duration=3000)](https://github.com/henrygoncalvess)
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=henrygoncalvess&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=815&border=0BFFEF&ring=00FFD5&fire=00FFD5&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FFD5&dates=0000007C&background=45%2C0BFFEF%2C6047FF"/>
 </p>
 
 <p align="center">
-  <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&include_all_commits=true&custom_title=Github%20Status%20-%20Henry%20Gonçalves&hide=commits&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=002582&ring_color=00FFD5&border_color=0BFFEF&bg_color=35,0befff,6047FF&line_height=30&number_format=long&rank_icon=github"/>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&custom_title=Github%20Status%20-%20Henry%20Gonçalves&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=002582&ring_color=00FFD5&border_color=0BFFEF&bg_color=35,0befff,6047FF&line_height=30&number_format=long&rank_icon=github"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1&hide=powershell"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&section=footer&height=75" />
