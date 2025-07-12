@@ -26,7 +26,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
   <a href="https://www.linkedin.com/in/henrygoncalvess/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://roadmap.sh/u/henrydbk">
+  <a href="https://roadmap.sh/u/henrygoncalves">
     <img src="https://img.shields.io/badge/Roadmap-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" />
   </a>
 </p>
