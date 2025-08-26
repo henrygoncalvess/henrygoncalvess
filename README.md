@@ -34,7 +34,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,jest,git,html,postman,js,nodejs,mongodb,arduino,typescript,docker,css,vscode,powershell,postgres,next,vercel,bash,express,mysql,md&perline=11" />
+  <img src="https://skillicons.dev/icons?i=npm,jest,git,html,js,vite,nodejs,mongodb,arduino,typescript,docker,css,react,vscode,powershell,postgres,next,vercel,express,mysql,md,aws&perline=11" />
 <!--  linux, debian -->
 </p>
 
