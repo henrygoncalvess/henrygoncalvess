@@ -20,7 +20,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <!--   <a href="https://www.instagram.com/henry_dbk">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> -->
-  <a href="https://wa.me/5511944556632">
+  <a href="https://wa.me/">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/henrygoncalvess/">
@@ -34,7 +34,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,jest,git,html,js,vite,neovim,nodejs,mongodb,arduino,typescript,docker,css,react,vscode,postgres,next,vercel,express,mysql,md,aws&perline=11" />
+  <img src="https://skillicons.dev/icons?i=npm,jest,git,html,ubuntu,js,py,vite,neovim,nodejs,mongodb,arduino,typescript,docker,css,react,postgres,c,next,vercel,express,mysql,md&perline=12" />
 <!--  linux, debian -->
 </p>
 
@@ -70,5 +70,5 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 
 <p align="center">
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&custom_title=Github%20Status%20-%20Henry%20Gonçalves&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=002582&ring_color=00FFD5&border_color=0BFFEF&bg_color=35,0befff,6047FF&line_height=30&number_format=long&rank_icon=github&hide=contribs"/>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1&hide=powershell"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1&hide=powershell,css"/>
 </p>
