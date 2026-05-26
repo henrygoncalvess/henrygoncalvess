@@ -1,17 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Back-End&center=true&vCenter=true&height=53&size=70&width=1050&color=28a0d1&font=Jersey+25&duration=3000)](https://github.com/henrygoncalvess)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Full+Stack&center=true&vCenter=true&height=53&size=70&width=1050&color=28a0d1&font=Jersey+25&duration=3000)](https://github.com/henrygoncalvess)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&height=75"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&height=75"/>
 <img src='https://capsule-render.vercel.app/api?type=transparent&height=25&fontColor=ffffff&fontSize=30&desc="Compromisso%20é%20a%20base%20de%20toda%20conquista"&descSize=25&descAlignY=80&animation=twinkling' />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&section=footer&height=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&section=footer&height=75"/> -->
 
 ### Sobre mim 😁
 
-Apaixonado pelo universo da tecnologia e da programação, com uma característica que se destaca por dedicação e  
-foco. Sempre busco realizar minhas tarefas com excelência, sempre pesquisando e praticando constantemente para criar  
-um conhecimento robusto.
+Desenvolvedor Full Stack com foco em NodeJS e TypeScript. Atualmente cursando o Common Core na 42 São Paulo — uma escola de engenharia de software 100% prática, baseada em projetos e no aprendizado peer-to-peer. Passar pela "Piscina" da 42 me forçou a desenvolver muita resiliência, comunicação direta e a capacidade de resolver problemas difíceis em equipe. Lá, construo uma base sólida lidando com C e Python.
 
-Sou curioso, valorizo o aprendizado contínuo e não hesito em fazer perguntas ou buscar respostas. Além disso, sou uma  
-pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro, aprender.
+No dia a dia, trabalho nativamente em ambiente Linux (Ubuntu) . Valorizo a qualidade do código aplicando Testes e TDD, modelo bancos de dados relacionais com Postgres e SQL/ORM, gosto muito de otimizar todo o ciclo de desenvolvimento, assegurando entregas mais ágeis através de rotinas de automação com CI/CD. Faço o versionamento de tudo isso com Git, usando estratégias de branches e Github/Github Actions.
 
 <p align="center">
   <a href="https://mailto:h3nrygoncalves@gmail.com">
@@ -34,15 +31,15 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,jest,git,html,ubuntu,js,py,vite,neovim,nodejs,mongodb,arduino,typescript,docker,css,react,postgres,c,next,vercel,express,mysql,md&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nestjs,npm,jest,git,html,figma,cloudflare,aws,js,py,linux,vite,prisma,neovim,nodejs,arduino,typescript,docker,css,react,postgres,c,next,vercel,mysql,md&perline=12" />
 <!--  linux, debian -->
 </p>
 
-<h3 align=center>Meus projetos</h3>
+<h3 align=center>Trabalhos</h3>
 
 <p align="center">
-  <a href="https://github.com/henrygoncalvess/AI-photos-community">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrygoncalvess&repo=AI-photos-community&title_color=1cddff&text_color=fffffe&border_color=0BFFEF&bg_color=004666&icon_color=ffffff&description_lines_count=3"/>
+  <a href="https://barbeariamrgump.com.br">
+    <img src="https://img.shields.io/badge/Barbearia_Mr.Gump-Site_Profissional-0A66C2?style=for-the-badge" />
   </a>
 </p>
 
@@ -68,7 +65,7 @@ pessoa tranquila, eu prezo por boas amizades, gosto de ajudar, ensinar e, claro,
   <img src="https://streak-stats.demolab.com?user=henrygoncalvess&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=815&border=0BFFEF&ring=00FFD5&fire=00FFD5&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FFD5&dates=0000007C&background=45%2C0BFFEF%2C6047FF"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&custom_title=Github%20Status%20-%20Henry%20Gonçalves&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=002582&ring_color=00FFD5&border_color=0BFFEF&bg_color=35,0befff,6047FF&line_height=30&number_format=long&rank_icon=github&hide=contribs"/>
   <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1&hide=powershell,css"/>
-</p>
+</p> -->
