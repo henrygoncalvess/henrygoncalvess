@@ -1,27 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Full+Stack&center=true&vCenter=true&height=53&size=70&width=1050&color=28a0d1&font=Jersey+25&duration=3000)](https://github.com/henrygoncalvess)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henry+Gonçalves;Desenvolvedor+Backend+/+Full+Stack&center=true&vCenter=true&height=53&size=70&width=1050&color=28a0d1&font=Jersey+25&duration=3000)](https://github.com/henrygoncalvess)
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&height=75"/>
-<img src='https://capsule-render.vercel.app/api?type=transparent&height=25&fontColor=ffffff&fontSize=30&desc="Compromisso%20é%20a%20base%20de%20toda%20conquista"&descSize=25&descAlignY=80&animation=twinkling' />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bffff,100:6047FF&section=footer&height=75"/> -->
+### Sobre mim 😁👋
 
-### Sobre mim 😁
+Desenvolvedor Backend / Full Stack
 
-Desenvolvedor Full Stack com foco em NodeJS e TypeScript. Atualmente cursando o Common Core na 42 São Paulo — uma escola de engenharia de software 100% prática, baseada em projetos e no aprendizado peer-to-peer. Passar pela "Piscina" da 42 me forçou a desenvolver muita resiliência, comunicação direta e a capacidade de resolver problemas difíceis em equipe. Lá, construo uma base sólida lidando com C e Python.
+Curso o Common Core na 42 São Paulo, escola de engenharia de software 100% prática e baseada em projetos. Desenvolvi muita resiliência, comunicação direta e resolução de problemas em equipe na Piscina da 42; hoje consolido minha base com C e Python. Estudo também no curso.dev, do Filipe Deschamps (81 horas de módulos já concluídas e certificadas), que moldou minha forma de trabalhar: analisar antes de desenvolver, manter a calma diante de problemas e arquitetar soluções com critério.
 
-No dia a dia, trabalho nativamente em ambiente Linux (Ubuntu) . Valorizo a qualidade do código aplicando Testes e TDD, modelo bancos de dados relacionais com Postgres e SQL/ORM, gosto muito de otimizar todo o ciclo de desenvolvimento, assegurando entregas mais ágeis através de rotinas de automação com CI/CD. Faço o versionamento de tudo isso com Git, usando estratégias de branches e Github/Github Actions.
+Valorizo qualidade de código com testes automatizados e TDD. Modelo bancos relacionais com PostgreSQL e SQL, usando ORM e migrations. Construo APIs REST com autenticação, autorização, segurança de senhas e criptografia. Uso Docker e CI/CD com GitHub Actions para automatizar build, testes e deploy, com Git e estratégias de branches. Conheço também a infraestrutura por trás da aplicação: DNS, protocolos de rede e email.
+
+Integro IA ao ciclo de desenvolvimento, com orquestração de agentes e git worktrees para paralelizar tarefas mantendo isolamento e controle de qualidade.
+
+Atuo em suporte técnico consultivo, investigando problemas, orientando clientes e traduzindo necessidades de negócio em soluções técnicas. Essa vivência, somada à evolução que tive na 42, me dá uma comunicação clara e a capacidade de entender o que o cliente realmente precisa, não apenas o que ele pede.
 
 <p align="center">
-  <a href="https://mailto:h3nrygoncalves@gmail.com">
+  <a href="mailto:h3nrygoncalves@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<!--   <a href="https://www.instagram.com/henry_dbk">
+  <a href="https://www.instagram.com/h3nrygoncalvess">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
+  </a>
   <a href="https://wa.me/5511943223927">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/henrygoncalvess/">
+  <a href="https://www.linkedin.com/in/henrygoncalvess">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/900435447061307392">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://roadmap.sh/u/henrygoncalves">
     <img src="https://img.shields.io/badge/Roadmap-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" />
@@ -31,11 +36,11 @@ No dia a dia, trabalho nativamente em ambiente Linux (Ubuntu) . Valorizo a quali
 <h2 align=center>Tecnologias e Conhecimentos</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,npm,jest,git,html,figma,cloudflare,aws,js,py,linux,vite,prisma,neovim,nodejs,arduino,typescript,docker,css,react,postgres,c,next,vercel,mysql,md&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nestjs,npm,debian,jest,git,html,js,cloudflare,aws,py,linux,vite,neovim,nodejs,arduino,c,typescript,css,docker,prisma,arch,react,postgres,next,vercel,mysql,md,bash&perline=13" />
 <!--  linux, debian -->
 </p>
 
-<h3 align=center>Trabalhos</h3>
+<h3 align=center>Trabalhos / Projetos</h3>
 
 <p align="center">
   <a href="https://barbeariamrgump.com.br">
@@ -65,7 +70,7 @@ No dia a dia, trabalho nativamente em ambiente Linux (Ubuntu) . Valorizo a quali
   <img src="https://streak-stats.demolab.com?user=henrygoncalvess&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=815&border=0BFFEF&ring=00FFD5&fire=00FFD5&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FFD5&dates=0000007C&background=45%2C0BFFEF%2C6047FF"/>
 </p>
 
-<!-- <p align="center">
-  <img height=170 src="https://github-readme-stats.vercel.app/api?username=henrygoncalvess&custom_title=Github%20Status%20-%20Henry%20Gonçalves&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=002582&ring_color=00FFD5&border_color=0BFFEF&bg_color=35,0befff,6047FF&line_height=30&number_format=long&rank_icon=github&hide=contribs"/>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrygoncalvess&langs_count=6&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1&hide=powershell,css"/>
-</p> -->
+<p align="center">
+  <img height=170 src="https://github-stats-extended-frontend-azure-pi.vercel.app/api?username=henrygoncalvess&custom_title=Github%20Status%20-%20Henry%20Gonçalves&show=prs_merged&show_icons=true&locale=pt-br&title_color=ffffff&text_color=fffffa&icon_color=000000&ring_color=00FFD5&border_color=0BFFEF&bg_color=35,0befff,6047FF&line_height=30&number_format=long&rank_icon=github"/>
+  <img height=170 src="https://github-stats-extended-frontend-azure-pi.vercel.app/api/top-langs/?username=henrygoncalvess&title_color=fffffe&text_color=fffffa&border_color=0BFFEF&bg_color=35,0befff,6047FF&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1&langs_count=10&hide=powershell,qml,lua,nix,glsl,perl,c%2B%2B"/>
+</p>
